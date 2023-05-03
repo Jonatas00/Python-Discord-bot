@@ -1,0 +1,2 @@
+discordKey = "ODczMDM4MDg3MjQ3MjQ5NDY5.GljptU.LbLCDy7qY48LNkoxAdPaR1yypA0dKR9csRamDs"
+RiotKey = "RGAPI-7b84cc69-4f9b-484d-ab14-c57572032693"
