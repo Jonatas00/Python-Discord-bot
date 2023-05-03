@@ -15,7 +15,7 @@ Python -m venv env
 
 ### 3. Ative o ambiente virtual
 ```
- ./env/Scripts/Activate
+ ./env/Scripts/Activate 
 ```
 ### 4. Instale os requerimentos
 ```
