@@ -8,15 +8,15 @@ Atualmente, esse bot tem apenas a funcionalidade de mostrar o elo do jogador nas
 ```
 git clone https://github.com/Jonatas00/Python-Discord-bot.git
 ```
-###2. Crie um ambiente virtual (Virutal Environment)
+### 2. Crie um ambiente virtual (Virutal Environment)
 ```
 Python -m venv env
 ```
-###3. Instale os requerimentos
+### 3. Instale os requerimentos
 ```
 pip install -r requirements.txt
 ```
-###4. Adicione suas keys em keyConfig.py
+### 4. Adicione suas keys em keyConfig.py
 
 ```python
 discordKey = "Insira sua KEY AQUI"  # Your discord bot key
