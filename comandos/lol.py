@@ -2,7 +2,7 @@ import discord, keyConfig
 from discord.ext import commands
 
 from riotwatcher import LolWatcher
-lol_watcher = LolWatcher(keyConfig.RiotKey)
+lol_watcher = LolWatcher(keyConfig.riotKey)
 
 class Elo(commands.Cog):
     def __init__(self, bot):
