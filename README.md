@@ -33,5 +33,5 @@ discordKey = "Insira sua KEY AQUI"  # Your discord bot key
 5. Vá para https://developer.riotgames.com e faça login com sua conta
 6. Copie e cole sua chave no arquivo keyConfig.py
 ```python
-RiotKey = "Insira sua KEY AQUI"     # Your Riot API key
+riotKey = "Insira sua KEY AQUI"     # Your Riot API key
 ```
