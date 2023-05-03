@@ -1,2 +1,2 @@
-discordKey = "xxxxxxxxxxxxxxxxxxxxxxx"  # Your discord bot key
-RiotKey = "xxxxxxxxxxxxxxxxxxxxxxxxxx"  # Your Riot API key
+discordKey = "Insira sua KEY AQUI"  # Your discord bot key
+RiotKey = "Insira sua KEY AQUI"  # Your Riot API key
