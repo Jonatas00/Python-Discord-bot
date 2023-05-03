@@ -18,7 +18,15 @@ pip install -r requirements.txt
 ```
 ### 4. Adicione suas keys em keyConfig.py
 
+1. Vá para https://discord.com/developers/ e faça login com sua conta
+2. Faça um novo aplicativo e escolha um nome
+3. Vá na aba OAuth2 e clique no botão "Reset Secret"
+4. Copie e cole sua chave no arquivo keyConfig.py
 ```python
 discordKey = "Insira sua KEY AQUI"  # Your discord bot key
+```
+5. Vá para https://developer.riotgames.com e faça login com sua conta
+6. Copie e cole sua chave no arquivo keyConfig.py
+```python
 RiotKey = "Insira sua KEY AQUI"     # Your Riot API key
 ```
