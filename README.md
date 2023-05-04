@@ -22,16 +22,16 @@ Python -m venv env
 pip install -r requirements.txt
 ```
 ### 6. Crie o arquivo "keyConfigs.py" e adicione suas keys nele
-
-1. Vá para https://discord.com/developers/ e faça login com sua conta
-2. Faça um novo aplicativo e escolha um nome
-3. Vá na aba Bot e clique no botão "Reset Token"
-4. Copie e cole sua chave no arquivo keyConfig.py
+1. No diretório base do projeto crie um arquivo chamado "keyConfigs.py"
+2. Vá para https://discord.com/developers/ e faça login com sua conta
+3. Faça um novo aplicativo e escolha um nome
+4. Vá na aba Bot e clique no botão "Reset Token"
+5. Copie e cole sua chave no arquivo "keyConfig.py"
 ```python
 discordKey = "Insira sua KEY AQUI"  # Your discord bot key
 ```
-5. Vá para https://developer.riotgames.com e faça login com sua conta
-6. Copie e cole sua chave no arquivo keyConfig.py
+6. Vá para https://developer.riotgames.com e faça login com sua conta
+7. Copie e cole sua chave no arquivo keyConfig.py
 ```python
 riotKey = "Insira sua KEY AQUI"     # Your Riot API key
 ```
