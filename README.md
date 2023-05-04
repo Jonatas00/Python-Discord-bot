@@ -21,7 +21,7 @@ Python -m venv env
 ```
 pip install -r requirements.txt
 ```
-### 5. Adicione suas keys em keyConfig.py
+### 6. Crie o arquivo "keyConfigs.py" e adicione suas keys nele
 
 1. Vá para https://discord.com/developers/ e faça login com sua conta
 2. Faça um novo aplicativo e escolha um nome
@@ -35,7 +35,7 @@ discordKey = "Insira sua KEY AQUI"  # Your discord bot key
 ```python
 riotKey = "Insira sua KEY AQUI"     # Your Riot API key
 ```
-### 6. Execute o bot
+### 7. Execute o bot
 ```
 py main.py
 ```
