@@ -35,3 +35,7 @@ discordKey = "Insira sua KEY AQUI"  # Your discord bot key
 ```python
 riotKey = "Insira sua KEY AQUI"     # Your Riot API key
 ```
+### 6. Execute o bot
+```
+py main.py
+```
